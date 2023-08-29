@@ -26,7 +26,7 @@ img{
     object-fit: contain;
 }
 .container{
-    min-height: 100vh;
+    min-height: 95vh;
     margin: 0 auto;
     display: flex;
     justify-content: center;
